@@ -8,7 +8,7 @@
 <body>
     <form action="test.php" method="post">
         <input type="text" name="name">
-        <button type="submit"></button>
+        <button type="submit">submit</button>
     </form>
     <?php 
         echo $_POST["name"];
