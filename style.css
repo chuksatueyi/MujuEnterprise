@@ -3,7 +3,7 @@ html , body {
     margin: 0;
 }
 h1{
-    font-size: 1500px;
+    /* font-size: 1500px; */
     color: red;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
